@@ -1,0 +1,3 @@
+﻿  mevne-ex1.cpp
+D:\studying\code\newmevene\ex1\mevne-ex1\mevne-ex1.cpp(102): warning C4715: 'TownDistanceWithStack': not all control paths return a value
+  mevne-ex1.vcxproj -> D:\studying\code\newmevene\ex1\mevne-ex1\Debug\mevne-ex1.exe
